@@ -11,3 +11,7 @@ func main() {
 func featurebaru() {
 	fmt.Println("feature baru")
 }
+
+func featurebarudua() {
+	fmt.Println("feature baru 2")
+}
